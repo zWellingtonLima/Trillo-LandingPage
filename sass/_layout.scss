@@ -8,6 +8,10 @@
 .header{
   height: 7rem;
   background-color: var(--color-grey-light-2);
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .content {
